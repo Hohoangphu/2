@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Draw a deck of 52 cards</string>
+    <string name="hello">Hello Phú</string>
+    <string name="rutbai">Rút bài</string>
+    <string name="txtthongbao">Thông Báo</string>
+
+</resources>
